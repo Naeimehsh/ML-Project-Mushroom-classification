@@ -11,7 +11,7 @@ Here is a screenshot of my model result named 'Naeimeh':
 
 ![Prediction_result](https://github.com/Naeimehsh/ML-Project-Mushroom-classification/assets/12233739/be2fab36-ccde-45e7-bd6b-5ac5e68843a5)
 
-### This project includes the following folders:
+### The repository includes the following folders:
 
 - Code
 - Datasets (this dataset can be used for model development)
