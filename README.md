@@ -9,8 +9,13 @@ My model saved lives! :smiley:
 
 Here is a screenshot of my model result named 'Naeimeh':
 
-![image]()
+![Prediction_result](https://github.com/Naeimehsh/ML-Project-Mushroom-classification/assets/12233739/be2fab36-ccde-45e7-bd6b-5ac5e68843a5)
 
-And here you can submit and see how your model works. 
-https://mushrooms-win.streamlit.app/
+### This project includes the following folders:
+
+- Code
+- Datasets (this dataset can be used for model development)
+- My_Model_prediction
+
+Finally, here you can submit and see how your model works: [Link to Streamlit app](https://mushrooms-win.streamlit.app/) :smiley:
 
